@@ -23,7 +23,7 @@ class Contact extends Component {
               <List>
                 <ListItem>
                   <ListItemContent
-                    style={{ fontSize: "30px", fontFamily: "Anton" }}
+                    style={{ fontSize: "25px", fontFamily: "Anton" }}
                   >
                     <i className="fa fa-phone-square" aria-hidden="true" />
                     (918) 760-5063
@@ -31,7 +31,7 @@ class Contact extends Component {
                 </ListItem>
                 <ListItem>
                   <ListItemContent
-                    style={{ fontSize: "30px", fontFamily: "Anton" }}
+                    style={{ fontSize: "25px", fontFamily: "Anton" }}
                   >
                     <i className="fa fa-envelope" aria-hidden="true" />
                     williamchao@utexas.edu
@@ -39,7 +39,7 @@ class Contact extends Component {
                 </ListItem>
                 <ListItem>
                   <ListItemContent
-                    style={{ fontSize: "30px", fontFamily: "Anton" }}
+                    style={{ fontSize: "25px", fontFamily: "Anton" }}
                   >
                     <i className="fa fa-globe" aria-hidden="true" />
                     kaizencreativestudio.com
@@ -47,7 +47,7 @@ class Contact extends Component {
                 </ListItem>
                 <ListItem>
                   <ListItemContent
-                    style={{ fontSize: "30px", fontFamily: "Anton" }}
+                    style={{ fontSize: "25px", fontFamily: "Anton" }}
                   >
                     <i className="fa fa-linkedin" aria-hidden="true" />
                     linkedin.com/in/williamchao99/
