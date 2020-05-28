@@ -88,7 +88,7 @@
   border-radius: 10px;
 }
 .banner-text h1 {
-  font-size: 50px;
+  font-size: 40px;
   font-weight: bold;
   color: white;
 }
@@ -105,11 +105,10 @@
 .social-links {
   display: flex;
   justify-content: space-between;
-  width: 50%;
+  width: 65%;
   margin: auto;
 }
 .social-links i {
   color: white;
-  font-size: 3em;
-  padding: 8px;
+  font-size: 4em;
 }
